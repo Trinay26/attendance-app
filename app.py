@@ -1134,7 +1134,7 @@ def page_setup(data):
 
 
 def page_login():
-    hero("GITAM Smart Attendance", "Sign in or create your private tracker.")
+    hero("GITAM Smart Attendance By Trinay", "Sign in or create your private tracker.")
     st.markdown("Pick a **username** and a **PIN** (4 to 8 digits). A new username creates a new account. "
                 "Everyone's data is separate and private.")
     with st.form("login_form"):
