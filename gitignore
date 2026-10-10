@@ -1,0 +1,4 @@
+user_data/
+attendance_data.json
+__pycache__/
+*.pyc
